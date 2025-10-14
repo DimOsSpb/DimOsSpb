@@ -25,7 +25,7 @@
 
 **Инфраструктура / Серверы:** Linux, Windows Server, NUTANIX/KVM/Proxmox, SQL, FireWalls/VPN
 
-**Языки программирования (адаптивные):** Bash, Python, ASM, C, C++, Go, JavaScript/TypeScript, PowerShell, C#, ...  
+**Языки программирования:** Bash, Python, ASM, C, C++, Go, JavaScript/TypeScript, PowerShell, C#, ...  
 
 *Умею читать, понимать и модифицировать чужой код, быстро обновляю знания при смене стека*  
 
