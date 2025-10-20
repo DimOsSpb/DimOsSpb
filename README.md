@@ -58,6 +58,6 @@
   *Stack:* Ansible, Python, YC SDK  
   [GitHub → yc.py](https://github.com/DimOsSpb/my_own_collection/blob/1.1.3/plugins/modules/yc.py)  
 
-- **Сборка ELK Stack через docker-compose**  
-  *Stack:* Docker, ELK, YAML  
-  [GitHub → ELK](https://github.com/DimOsSpb/Netology-DevOps/tree/main/mnt-homeworks/10-monitoring-04-elk#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-1)  
+- **Сборка API Gateway -> Vector/ELK, Prometheus/Grafana - Stack через docker-compose**  
+  *Stack:* Docker, Vector, Filebeat/ELK, Prometheus/Grafana, YAML  
+  [GitHub → API Gateway](https://github.com/DimOsSpb/Netology-DevOps/blob/main/micros-homeworks/11-microservices-03-approaches/README.md) 
