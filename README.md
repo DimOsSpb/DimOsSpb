@@ -62,6 +62,6 @@
   *Stack:* Docker, Vector, Filebeat/ELK, Prometheus/Grafana, YAML  
   [GitHub → API Gateway](https://github.com/DimOsSpb/Netology-DevOps/blob/main/micros-homeworks/11-microservices-03-approaches/README.md) 
 
-- **Дипломный практикум. Развертывание инфраструктуры (IaC) на базе облачного провайдера Yandex Cloud. Self-hosted CI/CD контур на базе GitLab CE**
+- **Дипломный практикум. Развертывание инфраструктуры (IaC) на базе облачного провайдера Yandex Cloud. Self-hosted CI/CD контур на базе GitLab CE**  
   *Stack:* Yandex Cloud, Terraform, Ansible, Docker, Helm, Kubernetes, GitLab CE  
   [Дипломный практикум в Yandex.Cloud](https://gitlab.osipovdv.ru/devops-course/diplom/readme)
